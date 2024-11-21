@@ -1,0 +1,5 @@
+usr/include/KF6/KRunner/
+usr/lib/*/cmake/KF6Runner/
+usr/lib/*/libKF6Runner.so
+usr/share/kdevappwizard/templates/runner6.tar.bz2
+usr/share/kdevappwizard/templates/runner6python.tar.bz2
